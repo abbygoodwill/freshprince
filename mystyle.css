@@ -1,0 +1,10 @@
+h1 {
+	color: red;
+	background: blue;
+}
+
+body {
+	background: pink;
+	font: italic bold 12px/30px Georgia, serif;
+	text-align: center;
+}
